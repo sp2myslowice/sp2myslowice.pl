@@ -1,0 +1,1 @@
+# sp2myslowice.pl
